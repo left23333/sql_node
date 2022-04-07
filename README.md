@@ -1,2 +1,2 @@
-# sql_node
+# sql_note
 sql学习笔记。
